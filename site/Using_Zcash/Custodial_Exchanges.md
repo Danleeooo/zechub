@@ -20,5 +20,14 @@
 ___
 ___
 
+### [Binance](https://binance.com)
 
----
+<a href="https://binance.com">
+    <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" alt="Binance Logo" width="200" height="100"/>
+</a>
+
+- Website: [Binance](https://binance.com)
+- Pairs: ALL/ZEC
+- Supports: Transparent and Shielded
+
+<a href="https://binance.com">
